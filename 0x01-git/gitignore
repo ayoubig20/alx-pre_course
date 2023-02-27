@@ -44,3 +44,4 @@ flycheck_*.el
 
 # directory configuration 
 .dir-locals.el
+~Ã.emacs
